@@ -1,7 +1,7 @@
 # Casa-Criativa
 
 <h4 align="center">
-<img src="./public/assets/logo.png width="250px" /><br>
+<img src="/public/assets/logo.png width="250px" /><br>
  <b>Ideias Para Fazer no Periodo de Quarentena</b> 🦸‍♂️
 </h4>
 <p align="center">
